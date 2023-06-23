@@ -2,7 +2,11 @@
 The Expense Manager is a web-based application that helps users manage their expenses and provides visual representations of their spending patterns over time.
 
 ## Video Demo of Project
-[Untitled video - Screen Recording - 23_6_2023, 12_39_26 pm.webm](https://github.com/1TusharSharma1/Expense-Manager/assets/91653616/7c63b738-e704-4b79-9549-0c3f34c0b3a3)
+
+
+https://github.com/1TusharSharma1/Expense-Manager/assets/91653616/abb79db6-4cda-48fb-80b9-588c93dfd92f
+
+
 
 ## Table of Contents
 
