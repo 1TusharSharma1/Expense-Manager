@@ -1,5 +1,3 @@
-_Created with [AIPRM Prompt "Readme Generator | Markdown Format | GitHub."](https://www.aiprm.com/prompts/softwareengineering/text-editor/1794387468406222848/)_
-
 # Expense Manager README
 The Expense Manager is a web-based application that helps users manage their expenses and provides visual representations of their spending patterns over time.
 
