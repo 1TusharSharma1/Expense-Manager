@@ -16,7 +16,6 @@ https://github.com/1TusharSharma1/Expense-Manager/assets/91653616/abb79db6-4cda-
 - [Usage](#usage)
 - [Technologies](#technologies)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -36,7 +35,7 @@ To use the Expense Manager application locally, follow these steps:
 1. Clone the repository:
 
    ```
-   git clone https://github.com/your-username/expense-manager.git
+   git clone https://github.com/1TusharSharma1/expense-manager.git
    ```
 
 2. Install the required dependencies:
@@ -78,10 +77,3 @@ Contributions to the Expense Manager application are welcome! If you find any is
 4. Push your changes to your fork.
 5. Submit a pull request.
 
-## License
-
-The Expense Manager application is licensed under the MIT License. For more details, please refer to the [LICENSE](https://github.com/your-username/expense-manager/blob/main/LICENSE) file.
-
----
-
-Please note that the above content is a sample Markdown README file generated for the Expense Manager application. You can modify it according to your specific needs and add more detailed information about your project.
