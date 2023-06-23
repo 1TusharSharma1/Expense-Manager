@@ -1,70 +1,79 @@
-# Getting Started with Create React App
+# Expense Manager README
+The Expense Manager is a web-based application that helps users manage their expenses and provides visual representations of their spending patterns over time.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Video Demo of Project
 
-## Available Scripts
 
-In the project directory, you can run:
+https://github.com/1TusharSharma1/Expense-Manager/assets/91653616/abb79db6-4cda-48fb-80b9-588c93dfd92f
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Table of Contents
 
-### `npm test`
+- [Introduction](#introduction)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Technologies](#technologies)
+- [Contributing](#contributing)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Introduction
 
-### `npm run build`
+The Expense Manager is a powerful and user-friendly application designed to help individuals track and analyze their expenses. With the ability to visualize spending patterns through charts, users can easily understand how much money they have spent in different months from 2020 to 2023.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Features
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- Expense tracking: Keep a record of all your expenses.
+- Monthly spending chart: Visualize how much money was spent in each month.
+- Detailed data: Access expense data for the years 2020 to 2023.
+- User-friendly interface: The application is designed to be intuitive and easy to use.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Installation
 
-### `npm run eject`
+To use the Expense Manager application locally, follow these steps:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+1. Clone the repository:
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+   ```
+   git clone https://github.com/1TusharSharma1/expense-manager.git
+   ```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+2. Install the required dependencies:
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+   ```
+   npm install
+   ```
 
-## Learn More
+3. Start the development server:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+   ```
+   npm start
+   ```
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+4. Open your web browser and visit `http://localhost:3000` to access the Expense Manager.
 
-### Code Splitting
+## Usage
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+1. Sign in to your Expense Manager account or create a new account.
+2. Add your expenses by providing the necessary details such as date, description, and amount.
+3. View the monthly spending chart to visualize your spending patterns.
+4. Explore the expense data for different years to gain insights into your financial habits.
 
-### Analyzing the Bundle Size
+## Technologies
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+The Expense Manager application is built using the following technologies:
 
-### Making a Progressive Web App
+- ReactJS: A JavaScript library for building user interfaces.
+- HTML: The standard markup language for creating web pages.
+- CSS: A stylesheet language used for describing the look and formatting of a document written in HTML.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## Contributing
 
-### Advanced Configuration
+Contributions to the Expense Manager application are welcome! If you find any issues or have suggestions for improvement, please feel free to contribute by following these steps:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Make the necessary changes and commit them.
+4. Push your changes to your fork.
+5. Submit a pull request.
 
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
