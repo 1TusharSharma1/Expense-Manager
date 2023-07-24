@@ -69,7 +69,8 @@ The Expense Manager application is built using the following technologies:
 
 ## Contributing
 
-Contributions to the Expense Manager application are welcome! If you find any issues or have suggestions for improvement, please feel free to contribute by following these steps:
+Contributions to the Expense Manager application are welcome! 
+If you find any issues or have suggestions for improvement, please feel free to contribute by following these steps:
 
 1. Fork the repository.
 2. Create a new branch for your feature or bug fix.
