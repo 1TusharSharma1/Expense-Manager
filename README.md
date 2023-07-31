@@ -54,10 +54,9 @@ To use the Expense Manager application locally, follow these steps:
 
 ## Usage
 
-1. Sign in to your Expense Manager account or create a new account.
-2. Add your expenses by providing the necessary details such as date, description, and amount.
-3. View the monthly spending chart to visualize your spending patterns.
-4. Explore the expense data for different years to gain insights into your financial habits.
+1. Add your expenses by providing the necessary details such as date, description, and amount.
+2. View the monthly spending chart to visualize your spending patterns.
+3. Explore the expense data for different years to gain insights into your financial habits.
 
 ## Technologies
 
